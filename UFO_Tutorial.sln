@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFO_Tutorial", "UFO_Tutorial.csproj", "{D75B66DB-F396-2715-E7F2-C6423C28206A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFO_Tutorial.Editor", "UFO_Tutorial.Editor.csproj", "{99350049-A223-C0B9-6010-048FB371FCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75B66DB-F396-2715-E7F2-C6423C28206A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75B66DB-F396-2715-E7F2-C6423C28206A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75B66DB-F396-2715-E7F2-C6423C28206A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75B66DB-F396-2715-E7F2-C6423C28206A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99350049-A223-C0B9-6010-048FB371FCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99350049-A223-C0B9-6010-048FB371FCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99350049-A223-C0B9-6010-048FB371FCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99350049-A223-C0B9-6010-048FB371FCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
